@@ -5,10 +5,11 @@ Set up:
 pip install discord
 pip install selenium
 
-Change token variable to your discord bot token. This can be found in discobot.py
+Change token variable to your discord bot token. This can be found in discobot.py.
+
 
 How to use:
-Add the bot to a discord server and use the command "!tokeninfo [token address]"
+Add the bot to a discord server, run discobot.py and use the command "!tokeninfo [token address]"
 
 ![image](https://user-images.githubusercontent.com/105138573/167521801-ffd4c0a9-f158-4cd6-b18a-76af4c49950a.png)
 
