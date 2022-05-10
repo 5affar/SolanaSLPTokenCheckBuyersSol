@@ -1,5 +1,5 @@
-# SolanaSLPTokenCheckBuyersSol
-Checks the Solana balance of SLP token holders to give you a better idea of whos buying tokens
+# SolanaSPLTokenCheckBuyersSol
+Checks the Solana balance of SPL token holders to give you a better idea of whos buying tokens
 
 Set up:
 pip install discord
